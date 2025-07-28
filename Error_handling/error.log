@@ -1,0 +1,9 @@
+2025-04-03 18:41:44,433 - ERROR - Division by zero error occurred!
+2025-04-03 18:42:31,635 - ERROR - This is an error message
+2025-04-03 18:42:31,636 - CRITICAL - This is a critical message
+2025-04-03 18:49:42,887 - ERROR - Error: Attempted division by zero!
+2025-04-04 19:26:01,319 - ERROR - Division by zero error occurred!
+2025-04-04 19:26:01,661 - ERROR - This is an error message
+2025-04-04 19:26:01,661 - CRITICAL - This is a critical message
+2025-04-04 19:26:05,717 - ERROR - Error: Attempted division by zero!
+2025-04-04 19:26:07,962 - ERROR - File 'nonexistent.txt' not found.
